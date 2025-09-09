@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 스켈레톤: Cloudflare Worker가 lastmod 보강 및 URL 확장 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- 최소한 홈페이지 1건만 명시. 나머지는 워커가 보강 -->
+  <url>
+    <loc>https://moneydiary.co.kr/</loc>
+    <lastmod>2025-01-01T00:00:00Z</lastmod>
+  </url>
+</urlset>
